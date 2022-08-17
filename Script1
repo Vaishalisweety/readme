@@ -1,0 +1,8 @@
+n1 = input("Enter First number: ")
+n2 = input("\nEnter Second number: ")
+if n1>n2
+print("the greater number is " +n1)
+else
+print("the greater number is " +n2)
+
+Find_greater()
